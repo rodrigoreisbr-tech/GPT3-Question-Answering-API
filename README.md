@@ -1,4 +1,4 @@
-# GPT3-Question-Answering-API
+# Respondendo perguntar com a API do ChatGPT - GPT3-Question-Answering-API
 
 <div>
   <p>
@@ -22,7 +22,9 @@
   <p>
     Esse código é uma maneira fácil e eficiente de usar o modelo ChatGPT da OpenAI para responder a perguntas específicas. Você pode personalizá-lo para suas próprias necessidades, alterando o prompt e as perguntas da interface do usuário.
   </p>
-</div> 
+</div>
+
+# Answering Questions with the ChatGPT API - GPT3-Question-Answering-API 
 <div>
   <p>
     We're using Streamlit to create a user interface for interacting with the ChatGPT model trained by OpenAI. After importing necessary libraries, we define variables for the model response, prompt tokens, and completion tokens.
